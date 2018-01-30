@@ -19,5 +19,5 @@ Nos gusta ser transparentes y es por eso, que debemos decir que nos basamos en l
 * Para el Front de todos los proyectos usamos [Angular 4](/code/angular.md)
 * En el back todos los proyectos usamos [Ruby](/code/ruby.md) on [Rails x.x](/code/rails.md)
 * Para el versionamiento de código usamos [Git](/tools/git.md) y [Bitbucket](/tools/bitbucket.md).
-* Para desarrollar usamos [Sublime Text 3](/tools/sublime.md) y [RubyMine](/tools/rubymine.md)
+* Para desarrollar usamos [RubyMine](/tools/rubymine.md), [Sublime Text 3](/tools/sublime.md) y [Visual Studio Code](/tools/vscode.md).
 * Seguimos las siguientes guías de estilos para [Ruby](/code/style.md), [HTML](/code/html.md), CSS y [JavaScript](/code/style.md).
