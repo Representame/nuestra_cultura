@@ -5,9 +5,9 @@ Esta es la guía de [Representame.cl](https://www.representame.cl), donde vas a 
 Nos gusta ser transparentes y es por eso, que debemos decir que nos basamos en la [guia maestra](https://github.com/platanus/la-guia) de [Platan.us](https://www.platan.us).
 
 ### ¿Cómo trabajamos?
-* Apoyamos 100% el trabajo remoto, puedes trabajar en tu casa, no te olvides de avisar a tus compañeros!
+* Apoyamos 100% el trabajo remoto, puedes trabajar en tu casa, ¡No te olvides de avisar a tus compañeros!
 * Usamos [Slack](https://slack.com/intl/es) para conversar 1 a 1.
-  * No dudes en preguntar! Todo lo que quieras en el chat `#tech` de Slack.
+  * ¡No dudes en preguntar! Todo lo que quieras en el chat `#tech` de Slack.
     * No eres un heroe solitario al resolver en 1 hora un problema que un compañero te hubiera ayudado en 5 minutos.
     * Jamás serás criticado por no saber algo.
   * El canal `#general` es donde puedes comentar cualquier cosa no relacionada con la tecnología.
