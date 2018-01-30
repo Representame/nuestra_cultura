@@ -13,7 +13,7 @@ Nos gusta ser transparentes y es por eso, que debemos decir que nos basamos en l
   * El canal `#general` es donde puedes comentar cualquier cosa no relacionada con la tecnología.
   * Debes mantener las conversaciones privadas al mínimo y utilizar los canales de proyectos para conversaciones relacionadas a estos.
 * Usamos [appear.in](http://appear.in) para conversaciones grupales
-* Debes estar 100% actualizado de las [guía]().
+* Debes estar 100% actualizado de las [guías]().
 * Comparte tu conocimiento
 * Para organizar nuestro trabajo usamos [Jira](/tools/jira.md)
 * Para el Front de todos los proyectos usamos [Angular 4](/code/angular.md)
