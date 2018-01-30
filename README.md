@@ -1,6 +1,6 @@
 # Nuestra Cultura Tecnológica
 
-Guía de la cultura, acuerdos, reglas, formación, pactor y/o información necesaria para mejorar la coordinación del equipo Representame.cl
+Guía de la cultura, acuerdos, reglas, formación, pactor y/o información necesaria para mejorar la coordinación del equipo [Representame](https://www.representame.cl)
 
 ### Uso de forma local
 Colaborar es uno de nuestros objetivos, para poder colaborar, necesitas hacer lo siguiente:
