@@ -24,3 +24,5 @@ $gitbook serve
 ### Gracias
 
 A los que aportaron [Contributors](https://github.com/Representame/nuestra_cultura/graphs/contributors)
+
+A nuestra guía base [Platan.us - La guía](https://github.com/platanus/la-guia)
