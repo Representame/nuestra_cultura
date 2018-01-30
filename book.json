@@ -1,0 +1,18 @@
+{
+  "gitbook": "3.x.x",
+  "title": "Representame - Nuestra cultura",
+  "links": {
+    "sidebar": {
+      "Representame": "https://www.representame.cl"
+    }
+  },
+  "plugins" : ["github", "ungrey", "packages", "-lunr", "-search", "search-plus"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/Representame/nuestra_cultura"
+    }
+  },
+  "structure": {
+    "readme": "INTRO.md"
+  }
+}

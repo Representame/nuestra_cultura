@@ -1,6 +1,6 @@
 # Nuestra Cultura Tecnológica
 
-Guía de la cultura, acuerdos, reglas, formación, pactor y/o información necesaria para mejorar la coordinación del equipo [Representame](https://www.representame.cl)
+Guía de la cultura, acuerdos, reglas, formación, pactos y/o información necesaria para mejorar la coordinación del equipo [Represéntame](https://www.representame.cl)
 
 ### Uso de forma local
 Colaborar es uno de nuestros objetivos, para poder colaborar, necesitas hacer lo siguiente:
@@ -25,4 +25,4 @@ $gitbook serve
 
 A los que aportaron [Contributors](https://github.com/Representame/nuestra_cultura/graphs/contributors)
 
-A nuestra guía base [Platan.us - La guía](https://github.com/platanus/la-guia)
+Nos basamos en -> [Platan.us - La guía](https://github.com/platanus/la-guia)
