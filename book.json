@@ -1,5 +1,5 @@
 {
-  "gitbook": "3.x.x",
+  "root":".",
   "title": "Representame - Nuestra cultura",
   "links": {
     "sidebar": {
