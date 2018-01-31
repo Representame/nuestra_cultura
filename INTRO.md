@@ -21,3 +21,7 @@ Nos gusta ser transparentes y es por eso, que debemos decir que nos basamos en l
 * Para el versionamiento de código usamos [Git](/tools/git.md) y [Bitbucket](/tools/bitbucket.md).
 * Para desarrollar usamos [Sublime Text 3](/tools/sublime.md) y [RubyMine](/tools/rubymine.md)
 * Seguimos las siguientes guías de estilos para [Ruby](/code/style.md), [HTML](/code/html.md), CSS y [JavaScript](/code/style.md).
+
+### Estamos en construcción
+
+Estamos en constante construcción y esta guía tambien.
