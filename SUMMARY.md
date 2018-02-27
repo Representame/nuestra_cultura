@@ -9,3 +9,6 @@
 * [Git](tools/git.md)
 * [Bitbucket](tools/bitbucket.md)
 * [Jira](tools/jira.md)
+
+## Acuerdos
+* [Ruby](agreements/coding.md)
