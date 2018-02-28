@@ -1,8 +1,8 @@
-# Visual Studio Code
+#Visual Studio Code
 
 Visual Studio Code es un editor de texto gratuito y código abierto, desarrollado por Microsoft el cual está principalmente orientado a desarrolladores TypeScript. Sin embargo, la gran disponibilidad de plugins desarrollados por la comunidad y por Microsoft permiten trabajar con un sinfin de lenguajes y herramientas, como por ejemplo C/C++, Python, Ruby, etc, etc.
 
-# Configuración básica para desarrolladores RoR
+##Configuración básica para desarrolladores RoR
 Para comenzar a trabajar en RoR utilizando VSCode, necesitarás los siguientes plugins:
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Mejora la integración de Git a VSCode, agregando funciones como inline git-blame.
