@@ -2,6 +2,9 @@
 
 * [Introducción](INTRO.md)
 
+## Diseño
+* [Manual de Marca](design/manual.md)
+
 ## Herramientas
 
 * [Sublime Text 3](tools/sublime.md)
