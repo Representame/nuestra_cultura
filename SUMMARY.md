@@ -15,3 +15,7 @@
 
 ## Acuerdos
 * [Ruby](agreements/coding.md)
+
+## Stacks tecnológicos
+* [Erik Regla](stacks/eregla/stack.md)
+* [Mauricio Caroca](stacks/mcaroca/stack.md)
