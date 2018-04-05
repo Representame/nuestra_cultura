@@ -46,4 +46,4 @@ $git push origin “nombre rama”
 $git status
 ```
 
-### Acá puedes ver nuestro [git-flow](/tools/gitflow.md)
+### Acá puedes ver nuestro [git-flow](/agreements/gitflow.md)
