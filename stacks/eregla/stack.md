@@ -4,10 +4,9 @@ Sistema operativo: macOS High Sierra
 
 | Propósito                                           |   Herramienta                                   |
 | --------------------------------------------------- | ----------------------------------------------- |
-| Editor de texto, control de versiones               | [Visual Studio Code](/stacks/eregla/vscode.md)  |
-| Cliente para DB                                     | [Postico]()                                     |
+| Editor de texto, control de versiones               | [Visual Studio Code](./vscode.md)  |                                  |
 | Interprete de comandos y emulador de terminal       | [Zsh + iTerm2]()                                |
-| Gestor de paquetes                                  | [Homebrew]()                                    |
+| Gestor de paquetes                                  | [Homebrew](./homebrew.md)                                    |
 | Cliente para DB                                     | [Postico]()                                     |
-| Gestor de versiones y paquetes para Ruby            | [RBENV + bundler]()                             |
-| Gestor de versiones y paquetes para Node.js         | [nvm + yarn]()                                  |
+| Gestor de versiones y paquetes para Ruby            | [RBENV + bundler](./ruby.md)                             |
+| Gestor de versiones y paquetes para Node.js         | [nvm + yarn](./node.md)                                  |

@@ -5,7 +5,7 @@ Visual Studio Code es un editor de texto extensible el cual es mantenido por Mic
 Puedes obtener una versión estable de Visual Studio Code en 
 [este](https://code.visualstudio.com/) enlace. 
 
-![sitio web](/stacks/eregla/images/vscode_download.png)
+![sitio web](./images/vscode_download.png)
 
 Existen dos versiones de VSCode, la versión `estable` y la versión `insiders`. La 
 diferencia de esta última es que esta recibe las últimas actualizaciones antes de 
