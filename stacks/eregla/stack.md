@@ -4,7 +4,7 @@ Sistema operativo: macOS High Sierra
 
 | Propósito                                           |   Herramienta                                   |
 | --------------------------------------------------- | ----------------------------------------------- |
-| Editor de texto, control de versiones               | [Visual Studio Code](./vscode.md)  |                                  |
+| Editor de texto, control de versiones               | [Visual Studio Code](./vscode.md)  |                                  
 | Interprete de comandos y emulador de terminal       | [Zsh + iTerm2]()                                |
 | Gestor de paquetes                                  | [Homebrew](./homebrew.md)                                    |
 | Cliente para DB                                     | [Postico]()                                     |
