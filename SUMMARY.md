@@ -23,5 +23,13 @@
 * [Gitflow](agreements/gitflow.md)
 
 ## Stacks tecnológicos
-* [Erik Regla](stacks/eregla/stack.md)
-* [Mauricio Caroca](stacks/mcaroca/stack.md)
+## Erik Regla
+* [Intro](stack_eregla/stack.md)
+* [Visual Studio Code](stack_eregla/vscode.md)
+* [Zsh + iTerm2]()                        
+* [Homebrew](stack_eregla/homebrew.md)        
+* [Postico]()                             
+* [StarUML](stack_eregla/staruml.md)          
+* [RBENV + bundler](stack_eregla/ruby.md)     
+* [nvm + yarn](stack_eregla/node.md)          
+## Mauricio Caroca

@@ -30,7 +30,7 @@ en su intérprete local ciertas variables de entorno.
 Para instalar las herramientas de CLI, presiona `⌘+shift+p` y elige la opción 
 `Install 'code' command in PATH`.
 
-![instalación cli](/stacks/eregla/images/vscode_install_cli.png)
+![instalación cli](/eregla_stack/images/vscode_install_cli.png)
 
 ### Plugins recomendados
 
