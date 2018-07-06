@@ -32,4 +32,6 @@
 * [StarUML](stack_eregla/staruml.md)          
 * [RBENV + bundler](stack_eregla/ruby.md)     
 * [nvm + yarn](stack_eregla/node.md)          
+
 ## Mauricio Caroca
+* [Intro](stack_mcaroca/stack.md)
